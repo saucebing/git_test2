@@ -1,5 +1,6 @@
 #include<stdio.h>
 void a() {
+  FILE* f = fopen("a.txt","r");
 }
 
 void b() {
