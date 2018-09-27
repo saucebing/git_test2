@@ -3,6 +3,7 @@ void a() {
 }
 
 void b() {
+  printf("this is b function");
 }
 
 int main() {
